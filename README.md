@@ -10,6 +10,8 @@ https://github.com/ivanzusko/mostly-adequate-guide-uk - Mostly adequate guide to
 
 https://understandinges6.denysdovhan.com/ Understanding ECMAScript 6, __100% translated__
 
+http://www.dut.edu.ua/uploads/l_538_66572861.pdf C++ Basics __100% translated__
+
 ## Fiction
 ## Law
 ## Medicine
