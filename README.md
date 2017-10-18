@@ -4,6 +4,7 @@ List of publicly available books, articles or other materials translated into Uk
 
 ## Computer science
 https://github.com/progit/progit2-uk - Pro Git book, __100% translated__
+https://github.com/ivanzusko/mostly-adequate-guide-uk - Mostly adequate guide to Functional Programming, __WIP__
 ## Fiction
 ## Law
 ## Medicine
