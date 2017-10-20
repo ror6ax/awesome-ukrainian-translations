@@ -10,6 +10,8 @@ https://github.com/ivanzusko/mostly-adequate-guide-uk - Mostly adequate guide to
 
 https://understandinges6.denysdovhan.com/ Understanding ECMAScript 6, __100% translated__
 
+https://github.com/ror6ax/circles-sines-signals - Seeing circles, sines, and signals, __WIP__
+
 ## Fiction
 ## Law
 ## Medicine
