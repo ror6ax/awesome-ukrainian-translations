@@ -2,7 +2,10 @@
 
 List of publicly available books, articles or other materials translated into Ukrainian language
 
-## Computer science
+Список публічно доступних книг, статей та іншших матеріалів, перекладених українською мовою
+
+## Computer science / Комп'ютерні науки
+
 
 https://github.com/progit/progit2-uk - Pro Git book, __100% translated__
 
