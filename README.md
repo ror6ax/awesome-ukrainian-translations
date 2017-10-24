@@ -12,6 +12,8 @@ https://understandinges6.denysdovhan.com/ Understanding ECMAScript 6, __100% tra
 
 https://github.com/ror6ax/circles-sines-signals - Seeing circles, sines, and signals, __WIP__
 
+https://github.com/LambdaBooks/thelittlebookofruby - The Little Book of Ruby, __100% translated__
+
 ## Fiction
 ## Law
 ## Medicine
