@@ -2,7 +2,7 @@
 
 List of publicly available books, articles or other materials translated into Ukrainian language
 
-Список публічно доступних книг, статей та іншших матеріалів, перекладених українською мовою
+Список публічно доступних книг, статей та інших матеріалів, перекладених українською мовою
 
 ## Computer science / Комп'ютерні науки
 
