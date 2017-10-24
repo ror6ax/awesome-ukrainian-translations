@@ -14,6 +14,10 @@ https://github.com/ror6ax/circles-sines-signals - Seeing circles, sines, and sig
 
 https://github.com/LambdaBooks/thelittlebookofruby - The Little Book of Ruby, __100% translated__
 
+https://github.com/pavloslav/rust-book-uk-ua - Rust Book, __WIP__
+
+http://lambdabooks.com/clojurescript-unraveled/ - ClojureScript Unraveled, __WIP__
+
 ## Fiction
 ## Law
 ## Medicine
