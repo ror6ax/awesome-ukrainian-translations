@@ -21,6 +21,8 @@ https://github.com/pavloslav/rust-book-uk-ua - Rust Book, __WIP__
 
 http://lambdabooks.com/clojurescript-unraveled/ - ClojureScript Unraveled, __WIP__
 
+https://github.com/ntuukpi/books/blob/master/not_so_short_intro_to_latex.pdf - Not so short intro to LaTeX, __100% translated__
+
 ## Fiction
 ## Law
 ## Medicine
