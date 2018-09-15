@@ -4,6 +4,9 @@ List of publicly available books, articles or other materials translated into Uk
 
 Список публічно доступних книг, статей та інших матеріалів, перекладених українською мовою
 
+
+## Contents
+
 ## Computer science / Комп'ютерні науки
 
 
